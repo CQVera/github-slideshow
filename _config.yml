@@ -9,7 +9,7 @@ markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
 
-kramdown:  # ###change
+kramdown:  # ###change2
   ## for german: "sbquo,lsquo,bdquo,ldquo"
   smart_quotes: lsquo,rsquo,ldquo,rdquo
 
